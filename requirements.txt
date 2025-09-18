@@ -8,3 +8,4 @@ dvc
 pytest
 joblib
 prometheus-client
+pre-commit>=4.3.0

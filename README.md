@@ -14,7 +14,7 @@
 ```bash
 mlops-flight-delay/
 │
-├── data/                
+├── data/
 │   └── raw/             # исходные данные (через DVC)
 │
 ├── models/              # сохранённые модели
